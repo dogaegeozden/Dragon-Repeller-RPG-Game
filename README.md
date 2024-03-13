@@ -1,10 +1,10 @@
 # Dragon Repeller Game
 
-![DragonRepellerGame](https://raw.githubusercontent.com/dogaegeozden/DragonRepellerGame/main/screenshots/screenshot1.png)
+![DragonRepellerGame](https://raw.githubusercontent.com/dogaegeozden/Dragon-Repeller-RPG-Game/main/screenshots/screenshot1.png)
 
 ## Introduction
 
-This is a RPG game where you fight with monsters, gain xp, get stronger, repel the dragon and save the town.
+This is a RPG game where you can fight with monsters, gain xp, get stronger, repel the dragon and save the town.
 
 ## Features
 
